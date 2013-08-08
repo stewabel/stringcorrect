@@ -12,6 +12,9 @@ i18n/**/*
 [Tt]humbs.db
 *.DS_Store
 
+#vim files
+*.swp
+
 #Visual Studio files
 *.[Oo]bj
 *.user
